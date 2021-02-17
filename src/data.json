@@ -1,0 +1,8 @@
+{
+    "defaultData": [{"id":1, "name":"John Doe", "favourite":true},
+        {"id":2, "name":"Steve Doe", "favourite":false},
+        {"id":3, "name":"Pete Doe", "favourite":false},
+        {"id":4, "name":"Dan Doe", "favourite":false},
+        {"id":5, "name":"Bob Doe", "favourite":true}]
+      
+}
