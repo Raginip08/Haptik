@@ -11,4 +11,5 @@ Application code is present in master branch
 ## https://raginip08.github.io/Haptik/
 
 # Below is screenshot of the application
+![Optional Text](../main/Screenshot.png)
 
